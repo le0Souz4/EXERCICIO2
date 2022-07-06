@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\EXERCICIO2\EXERCICIO2\obj\Debug\EXERCICIO2.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\EXERCICIO2\EXERCICIO2\obj\Debug\EXERCICIO2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\EXERCICIO2\EXERCICIO2\bin\Debug\EXERCICIO2.exe.config
+C:\Users\Administrador\Desktop\EXERCICIO2\EXERCICIO2\bin\Debug\EXERCICIO2.exe
+C:\Users\Administrador\Desktop\EXERCICIO2\EXERCICIO2\bin\Debug\EXERCICIO2.pdb
+C:\Users\Administrador\Desktop\EXERCICIO2\EXERCICIO2\obj\Debug\EXERCICIO2.exe
+C:\Users\Administrador\Desktop\EXERCICIO2\EXERCICIO2\obj\Debug\EXERCICIO2.pdb
